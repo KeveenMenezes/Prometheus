@@ -1,0 +1,22 @@
+{
+  "name": "KeveenMenezes",
+  "displayName": "Prometheus",
+  "description": "Where only the strong endure.",
+  "icon": "icon.jpg",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "prometheus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/prometheus-color-theme.json"
+      }
+    ]
+  }
+}
