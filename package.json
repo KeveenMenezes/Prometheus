@@ -1,28 +1,22 @@
 {
   "name": "Prometheus",
   "displayName": "Prometheus",
+  "version": "0.0.4",
+  "publisher": "KeveenMenezes",
   "description": "Where only the strong endure.",
+  "author": {
+    "name": "Keveen Menezes"
+  },
+  "categories": ["Themes"],
   "icon": "icon.jpg",
-  "version": "0.0.3",
+  "activationEvents": ["onLanguage:markdown"],
   "engines": {
     "vscode": "^1.85.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "license": "SEE LICENSE IN LICENSE.txt",
   "repository": {
     "type": "git",
     "url": "https://github.com/KeveenMenezes/Prometheus.git"
   },
-  "license": "MIT",
-  "publisher": "KeveenMenezes",
-  "contributes": {
-    "themes": [
-      {    
-        "label": "prometheus",
-        "uiTheme": "vs-dark",
-        "path": "./themes/prometheus-color-theme.json"
-      }
-    ]
-  }
+  "homepage": "https://github.com/KeveenMenezes/Prometheus/blob/main/README.md"
 }
