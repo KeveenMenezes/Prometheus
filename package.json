@@ -3,7 +3,7 @@
   "displayName": "Prometheus",
   "description": "Where only the strong endure.",
   "icon": "icon.jpg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -15,7 +15,7 @@
     "url": "https://github.com/KeveenMenezes/Prometheus.git"
   },
   "license": "MIT",
-  "publisher": "Keveen Menezes",
+  "publisher": "KeveenMenezes",
   "contributes": {
     "themes": [
       {    
