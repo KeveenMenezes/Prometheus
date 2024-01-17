@@ -15,10 +15,10 @@
     "url": "https://github.com/KeveenMenezes/Prometheus.git"
   },
   "license": "MIT",
-  "publisher": "KeveenMenezes",
+  "publisher": "Keveen Menezes",
   "contributes": {
     "themes": [
-      {
+      {    
         "label": "prometheus",
         "uiTheme": "vs-dark",
         "path": "./themes/prometheus-color-theme.json"
