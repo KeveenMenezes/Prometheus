@@ -1,5 +1,5 @@
 {
-  "name": "KeveenMenezes",
+  "name": "Prometheus",
   "displayName": "Prometheus",
   "description": "Where only the strong endure.",
   "icon": "icon.jpg",
@@ -10,6 +10,12 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeveenMenezes/Prometheus.git"
+  },
+  "license": "MIT",
+  "publisher": "KeveenMenezes",
   "contributes": {
     "themes": [
       {
