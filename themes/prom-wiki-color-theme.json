@@ -67,7 +67,7 @@
             "name": "support.function.std.rust",
             "scope": "support.function.std.rust",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -137,7 +137,7 @@
             "name": "diff",
             "scope": "meta.diff.header.from-file,meta.diff.header.to-file,punctuation.definition.from-file.diff,punctuation.definition.to-file.diff",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -179,7 +179,7 @@
             "name": "js/ts import keyword",
             "scope": "keyword.operator.expression.import",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -231,7 +231,7 @@
             "name": "java modifier.import",
             "scope": "meta.method.java",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -377,7 +377,7 @@
             "name": "js console function",
             "scope": "entity.name.function,support.function.console",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -496,7 +496,7 @@
             "name": "python function-call.generic",
             "scope": "meta.function-call.generic.python",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -599,7 +599,7 @@
                 "variable.function"
             ],
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -666,7 +666,7 @@
             "name": "Methods",
             "scope": "keyword.other.special-method",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -793,7 +793,7 @@
             "scope": "entity.other.attribute-name.id",
             "settings": {
                 "fontStyle": "normal",
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -822,7 +822,7 @@
             "name": "Headings",
             "scope": "markup.heading punctuation.definition.heading, entity.name.section",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -952,7 +952,7 @@
             "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
             "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -1127,7 +1127,7 @@
             "name": "php call-function",
             "scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -1155,7 +1155,7 @@
             "name": "php goto",
             "scope": "entity.name.goto-label.php,support.other.php",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -1190,7 +1190,7 @@
             "name": "python function decorator @",
             "scope": "meta.function.decorator.python",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -1287,7 +1287,7 @@
         {
             "scope": "token.info-token",
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -1337,7 +1337,7 @@
             "name": "js Flowtype",
             "scope": ["support.type.type.flowtype"],
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -1521,7 +1521,7 @@
             "name": "Groovy Methods",
             "scope": ["meta.method.groovy"],
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
@@ -1633,14 +1633,14 @@
             "name": "link",
             "scope": ["constant.character.xi"],
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
             "name": "accent",
             "scope": ["accent.xi"],
             "settings": {
-                "foreground": "#ff7d4d"
+                "foreground": "#5bd7e4"
             }
         },
         {
