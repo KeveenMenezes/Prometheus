@@ -1,0 +1,15 @@
+cinza esc = azul
+cinza cl = cinza ess
+azul = laranja 
+
+
+
+
+1 -  cinza claro
+
+azul = #63e3f0
+cinza escruo = #9f9d9d
+cinza claro = #cccccc
+laranja = #ff7a48
+amarelo = #ff9e3b
+verde = #98c379
