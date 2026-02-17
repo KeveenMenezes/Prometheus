@@ -23,8 +23,8 @@
 
 /* Dark theme: add brightness reduction for contrast-safe luminosity blending over bright backgrounds */
 .monaco-workbench.vs-dark {
-    --backdrop-blur-md: blur(20px) saturate(180%) brightness(0.55);
-    --backdrop-blur-lg: blur(40px) saturate(180%) brightness(0.55);
+    --backdrop-blur-md: blur(20px) saturate(240%) brightness(0.8);
+    --backdrop-blur-lg: blur(40px) saturate(240%) brightness(0.8);
 }
 
 /* Stealth Shadows - shadow-based depth for UI elements, controlled by workbench.stealthShadows.enabled */
