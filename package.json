@@ -1,30 +1,43 @@
 {
-  "name": "Prometheus",
-  "displayName": "Prometheus",
-  "version": "0.2.5",
-  "publisher": "KeveenMenezes",
-  "description": "Where only the strong endure.",
-  "license": "SEE LICENSE IN LICENSE.txt",
-  "author": {
-    "name": "Keveen Menezes"
-  },
-  "categories": ["Themes"],
-  "icon": "images/icon.png",
-  "engines": {
-    "vscode": "^1.85.0"
-  },
-  "contributes": {
-    "themes": [
-      {    
-        "label": "Prom-Wiki",
-        "uiTheme": "vs-dark",
-        "path": "./themes/prom-wiki-color-theme.json"
-      }
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/KeveenMenezes/Prometheus.git"
-  },
-  "homepage": "https://github.com/KeveenMenezes/Prometheus/blob/main/README.md"
+    "name": "prometheus",
+    "displayName": "Prometheus",
+    "description": "Where only the strong endure.",
+    "version": "0.2.5",
+    "publisher": "KeveenMenezes",
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "enabledApiProposals": [
+        "css"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "id": "Prometheus Dark",
+                "label": "Prom-Wiki",
+                "uiTheme": "vs",
+                "path": "./themes/prom-wiki-color-theme.json"
+            },
+            {
+                "id": "Prometheus Dark 2026",
+                "label": "Prom-Wiki-2026",
+                "uiTheme": "vs-dark",
+                "path": "./themes/prom-wiki-2026-dark.json"
+            }
+        ],
+        "css": [
+            {
+                "path": "./themes/styles.css"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KeveenMenezes/Prometheus.git"
+    },
+    "homepage": "https://github.com/KeveenMenezes/Prometheus/blob/main/README.md"
 }
