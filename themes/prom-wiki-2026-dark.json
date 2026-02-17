@@ -61,7 +61,7 @@
         "breadcrumbPicker.background": "#212121cc",
         "notificationCenterHeader.background": "#252525cc",
         "notifications.background": "#212121cc",
-        "quickInput.background": "#151515cc",
+        "quickInput.background": "#00000095",
         "quickInput.foreground": "#bfbfbf",
         "quickInputTitle.background": "#151515cc",
         "quickInputList.focusBackground": "#94949426",
