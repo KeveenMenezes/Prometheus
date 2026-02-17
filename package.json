@@ -2,7 +2,7 @@
     "name": "prometheus",
     "displayName": "Prometheus",
     "description": "Where only the strong endure.",
-    "version": "0.2.5",
+    "version": "1.0.3",
     "publisher": "KeveenMenezes",
     "license": "MIT",
     "engines": {
